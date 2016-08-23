@@ -1,1 +1,0 @@
-docker-machine create -d digitalocean --digitalocean-access-token=your_DO_access_token staging

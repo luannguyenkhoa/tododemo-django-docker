@@ -1,1 +1,0 @@
-docker-machine create -d virtualbox pdev && eval $(docker-machine env pdev) && docker-machine ssh pdev

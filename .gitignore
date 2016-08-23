@@ -40,11 +40,6 @@ htmlcov
 # Pycharm
 .idea/*
 
-
-# Secret scripts
-# TODO: Enable the line below to ignore pushing that folder to a public repo
-# scripts-secret/
-
 # Vim
 
 *~

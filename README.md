@@ -81,21 +81,4 @@ Gunicorn 'Green Unicorn' is a Python WSGI HTTP Server for UNIX. It's a pre-fork 
 
 [Homepage](http://gunicorn.org/)
 
-
-## Usage
-
-	1.	clone the project, navigate to the project
-
-	2.	run scripts to up the environment as following:
-		-	sh scripts/dj-create-dev-env.sh
-		-	sudo su
-		-	echo 'ln -sfn /mnt/sda1/data /data' >> /var/lib/boot2docker/bootlocal.sh
-		-   sh scripts/dj-dev-build.sh
-		-   sh scripts/dj-dev-up-bg.sh
-		-   sh scripts/dj-dev-mmgr.sh
-		-   sh scripts/dj-dev-mgr.sh
-		-   sh scripts/dj-dev-createsperuser.sh
-	
-	3. Your env is ready now.
-
 **All codebase is in backend folder.**
